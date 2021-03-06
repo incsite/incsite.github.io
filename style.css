@@ -14,11 +14,13 @@ a{
 .header__section{
   display: flex;
   align-items: center;
+   border-radius:60px
 }
 .header__item{
   padding: 10px 15px;
   font-size: 20px;
   margin-left: 5px;
+   border-radius:60px
 }
 .header__item:hover{
   background-color: #ff9900
