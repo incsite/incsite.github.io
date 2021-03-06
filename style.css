@@ -13,7 +13,7 @@ a{
   display: flex;
   align-items: center;
 }
-.header __item{
+.header__item{
   padding: 10px 15px;
   font-size: 20px;
   margin-left: 5px;
