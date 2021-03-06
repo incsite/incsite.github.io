@@ -29,3 +29,7 @@ a{
 .headerButton{
   cursor: pointer;
 }
+footer{
+  width: 100%;
+  height: auto;
+}
