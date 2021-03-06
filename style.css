@@ -1,13 +1,13 @@
 a{
-  color:#ffffff;
+  color:#fff;
   text-decoration: none;
 }
 .header{
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  background: #000000;
-  color: #ffffff;
+  background: #689CD2;
+  color: #fff;
   font-family: Arial;
 }
 .header__section{
