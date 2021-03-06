@@ -2,3 +2,11 @@ a{
   color:#fff;
   text-decoration: none;
 }
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #689CD2;
+  color: #fff;
+  font-family: Helvtica;
