@@ -8,5 +8,9 @@ a{
   padding: 10px;
   background: #000000;
   color: #ffffff;
-  font-family: Helvetica;
+  font-family: Arial;
+}
+.header__section{
+  display: flex;
+  align-items: center;
 }
