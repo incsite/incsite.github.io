@@ -54,3 +54,7 @@ a{
   float: left;
   padding-left: 10px
 }
+.content{
+  background: #000000;
+  margin:0 auto;
+}
