@@ -8,7 +8,6 @@ a{
   padding: 10px;
   background: #689CD2;
   color: #fff;
-  font-family: Arial;
 }
 .header__section{
   display: flex;
@@ -26,6 +25,6 @@ a{
 .headerlogo{
   font-weight: bold;
 }
-.headerBitton{
+.headerButton{
   cursor: pointer;
 }
