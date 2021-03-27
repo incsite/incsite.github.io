@@ -55,6 +55,7 @@ li{
   bottom: 0;
   position: absolute;
   border-radius:60px
+  opacity: 0;
 }
 .sidebar{
   background: #ffffff;
