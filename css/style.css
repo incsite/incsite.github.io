@@ -18,7 +18,6 @@ li{
   color: #fff;
   font-family: monospace;
  border-radius: 42px
-  opacity: 0,5;
 }
 .header__section{
   display: flex;
@@ -55,6 +54,7 @@ li{
   bottom: 0;
   position: absolute;
   border-radius:60px;
+  color: #fff;
 }
 .sidebar{
   background: #ffffff;
