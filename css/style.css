@@ -30,7 +30,7 @@ li{
    border-radius:60px
 }
 .header__item:hover{
-  background-color: #ff9900
+  background-color: #fff;
   border-radius: 4px;
 }
 .headerlogo{
