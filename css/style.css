@@ -55,13 +55,7 @@ li{
   left: 0;
   bottom: 0;
   position: absolute;
-  color: #fff;
+  color: #000;
   border-bottom: 60px;
 }
-.sidebar{
-  background: #ffffff;
-  min-height: 500px;
-  width: 30%;
-  float: left;
-  padding-left: 10px
-}
+
