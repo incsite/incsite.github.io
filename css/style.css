@@ -6,7 +6,7 @@ body {
   padding: 0;
 }
 a{
-  color: #282828;
+  color: #282;
   text-decoration: none;
 }
 li{
@@ -58,6 +58,5 @@ li{
   position: absolute;
   color: #fff;
   border-bottom: 60px
-  justify-content: space-between;
 }
 
