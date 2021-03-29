@@ -23,7 +23,7 @@ li{
 }
 .header__section{
   display: flex;
-  align-items: center;
+  align-items: left;
    border-radius:60px
 }
 .header__item{
