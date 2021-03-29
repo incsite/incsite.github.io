@@ -31,6 +31,7 @@ li{
   font-size: 20px;
   margin-left: 5px;
    border-radius:60px
+  color: #000;
 }
 .header__item:hover{
   background-color: #fff;
