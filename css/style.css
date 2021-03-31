@@ -43,6 +43,7 @@ li{
 }
 .headerButton{
   cursor: pointer;
+  color: #fff;
 }
 .footer{
   width: 100%;
